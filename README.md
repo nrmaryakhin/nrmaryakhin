@@ -36,6 +36,8 @@
 - Машинное обучение - https://stepik.org/cert/2565687
 - Введение в искусственные нейронные сети - https://stepik.org/cert/2555427
 - Анализ данных и обработка таблиц - https://stepik.org/course/126333/promo
+- Начальный курс SQL: от Новичка до Специалиста - https://stepik.org/course/130488/syllabus
+- Интерактивный тренажер по SQL - https://stepik.org/course/63054/promo?search=7235348887
 
 ---
 
